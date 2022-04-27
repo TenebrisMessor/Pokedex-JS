@@ -1,0 +1,77 @@
+/*Titular de la pagina*/
+.Titulo{
+    background-color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-style: oblique;
+}   
+/*Formatos para la imagen de la Pokedex*/
+.BasePokedex{
+align-content: center;
+position: relative;
+left: 20%;
+top: 10%;
+}
+/*Formatos para el buscador de Pokemon*/
+.Buscador{
+    background-color: black;
+    font-weight: bolder;
+    width: 175px;
+    height: 25px;
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    left: 95px;
+    top: 504px;
+    border-color: gray;
+    border: 0px;
+}
+/*Formato para la imagen de los Pokemon*/
+.ImagenPokemon{
+    
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    left: 170px;
+    top: 220px;
+
+}
+/*Formatos para el boton buscar*/
+
+.BotonBuscar{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    border-color: rgb(74, 184, 2);
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    position: absolute;
+    left: 278px;
+    top: 502px;
+}
+/*Cuerpo general de la aplicación Web*/
+.CuerpoPagina{
+    background-color: black;
+  width: 100%;
+  height: 100%;
+}
+/*Type*/
+.Type{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left: 740px;
+    top: 250px;
+}
+/*Stats*/
+.Stats{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left: 740px;
+    top: 415px;
+}
+/*skills*/
+.skills{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
